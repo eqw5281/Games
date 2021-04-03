@@ -91,7 +91,7 @@ you bust, and lose. Lastly, if you tie with the dealer it is a "push."
 When you finish drawing, the dealer reveals their other card and will
 continue to draw as long as their hand is 16 or under.
 
-HOW IT WORKS
+HOW IT WORKS:
 This script starts off by establishing two functions that will be
 frequently called upon throughout the rest of the script. The first
 function seen is "check_score". This function takes in a list (a 
